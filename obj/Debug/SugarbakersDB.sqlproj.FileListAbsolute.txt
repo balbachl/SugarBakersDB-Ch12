@@ -1,0 +1,10 @@
+C:\Users\Lisa.LAPTOP-B4JF6RME\source\repos\SugarbakersDB\bin\Debug\SugarbakersDB.dacpac
+C:\Users\Lisa.LAPTOP-B4JF6RME\source\repos\SugarbakersDB\bin\Debug\SugarbakersDB.dll
+C:\Users\Lisa.LAPTOP-B4JF6RME\source\repos\SugarbakersDB\bin\Debug\SugarbakersDB.pdb
+C:\Users\Lisa.LAPTOP-B4JF6RME\source\repos\SugarbakersDB\obj\Debug\SugarbakersDB.sqlprojAssemblyReference.cache
+C:\Users\Lisa.LAPTOP-B4JF6RME\source\repos\SugarbakersDB\obj\Debug\Model.xml
+C:\Users\Lisa.LAPTOP-B4JF6RME\source\repos\SugarbakersDB\obj\Debug\refactor.xml
+C:\Users\Lisa.LAPTOP-B4JF6RME\source\repos\SugarbakersDB\obj\Debug\postdeploy.sql
+C:\Users\Lisa.LAPTOP-B4JF6RME\source\repos\SugarbakersDB\obj\Debug\predeploy.sql
+C:\Users\Lisa.LAPTOP-B4JF6RME\source\repos\SugarbakersDB\obj\Debug\SugarbakersDB.dll
+C:\Users\Lisa.LAPTOP-B4JF6RME\source\repos\SugarbakersDB\obj\Debug\SugarbakersDB.pdb
