@@ -1,4 +1,4 @@
- CREATE TABLE ItemsonOrder(
+﻿ CREATE TABLE ItemsonOrder(
 	[OrdersID] int NOT NULL,
 	[ProductsID] int NOT NULL,
 	Quantity int NULL,

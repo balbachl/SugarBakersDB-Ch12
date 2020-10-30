@@ -58,7 +58,7 @@
     <Folder Include="Properties" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="Customer.sql" />
+    <Build Include="Customers.sql" />
     <Build Include="Zip.sql" />
     <Build Include="Orders.sql" />
     <Build Include="Payments.sql" />

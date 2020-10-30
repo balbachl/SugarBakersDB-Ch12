@@ -1,4 +1,4 @@
-CREATE TABLE Orders(
+﻿CREATE TABLE Orders(
 	[OrdersID] int NOT NULL,
 	CustomerID int NOT NULL,
 	OrderDate datetime NULL,

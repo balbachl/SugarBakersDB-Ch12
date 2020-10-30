@@ -1,4 +1,4 @@
-CREATE TABLE Customers(
+﻿CREATE TABLE Customers(
 	CustomerID int NOT NULL,
 	FirstName nvarchar(30) NOT NULL,
 	LastName nvarchar(50) NOT NULL,

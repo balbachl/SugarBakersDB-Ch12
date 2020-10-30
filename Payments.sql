@@ -1,4 +1,4 @@
-CREATE TABLE Payments(
+﻿CREATE TABLE Payments(
 	[CustomerID] int NOT NULL,
 	PmtDate datetime NOT NULL,
 	Amt money NULL,
