@@ -1,8 +1,10 @@
-﻿ CREATE TABLE ItemsonOrder(
-	[OrderID] int NOT NULL,
-	[ProductID] int NOT NULL,
+ CREATE TABLE ItemsonOrder(
+	[OrdersID] int NOT NULL,
+	[ProductsID] int NOT NULL,
 	Quantity int NULL,
 	UnitPrice money NULL,
 	LineItemTotal AS UnitPrice * Quantity,
 	ShipDate datetime NULL,
- CONSTRAINT PK_itemsonorder PRIMARY KEY CLUSTERED ([OrderID],[ProductID]));
+ CONSTRAINT PK_itemsonorder PRIMARY KEY CLUSTERED ([OrdersID],[ProductsID]),
+ CONSTRAINT FK_OrdersItems FOREIGN KEY(OrdersID) REFERENCES Orders(OrdersID),
+ CONSTRAINT FK_ProductItems FOREIGN KEY(ProductsID) REFERENCES Products(ProductsID));
