@@ -58,11 +58,14 @@
     <Folder Include="Properties" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="Customers.sql" />
+    <Build Include="Customer.sql" />
     <Build Include="Zip.sql" />
     <Build Include="Orders.sql" />
     <Build Include="Payments.sql" />
     <Build Include="Products.sql" />
     <Build Include="ItemsOnOrder.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="SugarbakersDB.refactorlog" />
   </ItemGroup>
 </Project>
